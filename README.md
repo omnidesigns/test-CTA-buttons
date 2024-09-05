@@ -1,4 +1,5 @@
-# Shiny for Python Example for Posit Connect Cloud Deployment [<img src="https://raw.githubusercontent.com/omnidesigns/test-CTA-buttons/55afd059fc16180719643343dfda1668f983f0ae/images/publish%20button.svg?token=AAX7YWMLWILEFUBYU7HT4OLG3E3HG">](https://connect.posit.cloud/publish?contentType=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-shiny-python&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
+# Shiny for Python Example for Posit Connect Cloud Deployment 
+[<img src="https://github.com/user-attachments/assets/dbac265d-e511-4566-8ba1-abde4385f2dd">](https://connect.posit.cloud/publish?contentType=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-shiny-python&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
 
 This example Shiny for Python application analyzes restaurant tipping, allowing users to filter by bill amount and food service category.
 
@@ -19,6 +20,4 @@ This example Shiny for Python application analyzes restaurant tipping, allowing 
 
 Create a [free account](https://connect.posit.cloud/), visit the [documentation](https://docs.posit.co/connect-cloud/), and join the [community](https://forum.posit.co/c/posit-professional-hosted/posit-connect-cloud/67). 
 
-[<img src="https://raw.githubusercontent.com/omnidesigns/test-CTA-buttons/55afd059fc16180719643343dfda1668f983f0ae/images/publish%20button.svg?token=AAX7YWMLWILEFUBYU7HT4OLG3E3HG">](https://connect.posit.cloud/publish?contentType=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-shiny-python&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
-
-
+[<img src="https://github.com/user-attachments/assets/dbac265d-e511-4566-8ba1-abde4385f2dd">](https://connect.posit.cloud/publish?contentType=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-shiny-python&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
