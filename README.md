@@ -1,23 +1,12 @@
 # Shiny for Python Example for Posit Connect Cloud Deployment 
 [<img src="https://github.com/user-attachments/assets/dbac265d-e511-4566-8ba1-abde4385f2dd">](https://connect.posit.cloud/publish?contentType=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-shiny-python&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
 
-This example Shiny for Python application analyzes restaurant tipping, allowing users to filter by bill amount and food service category.
-
-
-## Connect Cloud
-[Connect Cloud](https://connect.posit.cloud/) makes it simple for you to publish and share data applications and documents in a single cloud environment within minutes. It supports the most popular Python and R frameworks, including:
-* [Shiny for Python](https://docs.posit.co/connect-cloud/how-to/python/shiny-python.html) and [Shiny for R](https://docs.posit.co/connect-cloud/how-to/r/shiny-r.html)
-* [Streamlit](https://docs.posit.co/connect-cloud/how-to/python/streamlit.html)
-* [Dash](https://docs.posit.co/connect-cloud/how-to/python/dash.html)
-* [Bokeh](https://docs.posit.co/connect-cloud/how-to/python/bokeh.html)
-* Quarto with Python and [Quarto with R](https://docs.posit.co/connect-cloud/how-to/r/quarto-r.html)
-* Jupyter Notebooks
-* R Markdown
-
-## Click image and publish to Connect Cloud
-[<img src="https://github.com/user-attachments/assets/525b3a93-3f9b-48a5-869e-69f1be2617d2">](https://connect.posit.cloud/publish?contentType=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-shiny-python&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
-
-
-Create a [free account](https://connect.posit.cloud/), visit the [documentation](https://docs.posit.co/connect-cloud/), and join the [community](https://forum.posit.co/c/posit-professional-hosted/posit-connect-cloud/67). 
 
 [<img src="https://github.com/user-attachments/assets/dbac265d-e511-4566-8ba1-abde4385f2dd">](https://connect.posit.cloud/publish?contentType=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-shiny-python&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
+
+![publish button github-white](https://github.com/user-attachments/assets/659afea9-3bea-4fd8-b361-97f81e3bb4f4)
+![deploy button github-white](https://github.com/user-attachments/assets/6c55e894-01a9-492a-8f86-57592fd5c4c9)
+![publish button github-blue](https://github.com/user-attachments/assets/3919d0b2-4fbc-4267-b815-fed249794677)
+![deploy button github-blue](https://github.com/user-attachments/assets/a21db40e-b7e5-449b-9216-a93dcc1f9bbf)
+![publish button github-black](https://github.com/user-attachments/assets/0d0216a4-c96a-48fe-8449-4a50cb144138)
+![deploy button github-black](https://github.com/user-attachments/assets/c2cf0cb5-efe0-4beb-b2a1-f0dace9dd17b)
